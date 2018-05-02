@@ -2,6 +2,7 @@
   'cmd-F': 'project-find:show'
   'cmd-f': 'find-and-replace:show'
   'cmd-alt-f': 'find-and-replace:show-replace'
+  'cmd-shift-e': 'find-and-replace:show-replace'
 
 '.platform-win32, .platform-linux':
   'ctrl-F': 'project-find:show'
